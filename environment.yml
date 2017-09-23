@@ -1,0 +1,10 @@
+name: dask
+channels:
+- defaults
+- conda-forge
+- ericmjl
+dependencies:
+- dask
+- numpy
+- pandas
+- python=3.6
